@@ -3,4 +3,5 @@ This file consist of an Introduction of data analytics,its step and tools used i
 This file consist of discription of module-1
 This file consist dataset of the employees
 This file include findings of the employee dataset
-This files include Data Analytics Tool
+This files include Data Analytics Tools
+This file consists of statistics in data analysis
